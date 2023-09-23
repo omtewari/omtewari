@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omtewari
-- 👀 I’m interested in learning wb development
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects related to web development
 - 📫 How to reach me email me at omtewari106@gmail.com
 
 <!---
